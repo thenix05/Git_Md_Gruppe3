@@ -31,3 +31,11 @@ System Administration Tool geschrieben in Python
 - **GitHub:** [https://github.com/mitjach]
 - **Snapchat** [mitja.ch]
 - **Discord** [Mitjaa]
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitjach&show_icons=true&hide=contribs,prs&theme=radical)
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitjach&layout=compact&theme=radical)
+
+---
