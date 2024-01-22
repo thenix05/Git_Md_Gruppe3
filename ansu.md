@@ -16,9 +16,6 @@
 ## Hobbys
 
 - Gym
-
-![Alt text](image.png)
-
 - Gaming
 - Programmieren
 
