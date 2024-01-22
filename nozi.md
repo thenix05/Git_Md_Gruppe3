@@ -3,7 +3,6 @@
 ##  About me
 
 I am a computer scientist who specializes in application development, but sometimes I also like to make projects with hardware. I develop games and useful utilities which aid in everyday life. I also make 3D objects for 3D-printing.
-I do that as a hobby and am unhireable.
 
 ## Picture
 
