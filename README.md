@@ -6,7 +6,6 @@ Welcome to the Universal Portfolio Showcase repository! 🚀 This repository is 
 
 - [Introduction](#introduction)
 - [How to Contribute](#how-to-contribute)
-- [Portfolio Directory](#portfolio-directory)
 - [License](#license)
 
 ## Introduction
@@ -23,32 +22,6 @@ We invite contributions from individuals who want to share their portfolios or a
 4. Create a pull request.
 
 Your portfolio should include a brief introduction, a link to your portfolio, and any additional information you'd like to share. Feel free to use markdown or add images to make your entry stand out.
-
-## Portfolio Directory
-
-### [Your Name](#)
-![Your Name](link-to-image)
-
-**Introduction:**
-Briefly introduce yourself, your background, and your passion.
-
-**Portfolio:**
-[Link to Your Portfolio](#)
-
-**Additional Information:**
-Any other relevant information you'd like to share.
-
----
-
-**Portfolio:**
-[Link to Their Portfolio](#)
-
-**Additional Information:**
-Any other relevant information they'd like to share.
-
----
-
-*Continue adding entries for each contributor.*
 
 ## License
 
